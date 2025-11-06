@@ -33,7 +33,7 @@ They include:
 - 💾 Dataset links  
 - 🎨 Visual outputs for better understanding  
 
-> 🌐 Follow [Mahira (ALLANAI Labs) on Kaggle](https://www.kaggle.com) to explore connected tutorials and exercises.
+> 🌐 Follow [Mahira (ALLANAI Labs) on Kaggle](https://www.kaggle.com/mahiradev) to explore connected tutorials and exercises.
 
 ---
 
